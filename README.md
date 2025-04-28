@@ -1,7 +1,7 @@
 # SPK Documentation
 
 ## Overview
-Comprehensive documentation for the Machine-Centric Protocol (MCP) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
+Comprehensive documentation for the Machine-Centric Protocol (SPK) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
 
 ## Documentation Sections
 - **Protocol Overview**: Architecture and design principles
